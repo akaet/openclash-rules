@@ -1,0 +1,31 @@
+# 内容：HK
+# 来源：https://livednow.com/clash.yaml
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,dtmb-s1.cc
+DOMAIN-SUFFIX,dtmb-s2.cc
+DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,stream-link.online
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,tvb.com
+
+# 来源：https://pixman.io/topics/17
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,livednow.com
+
+# 被大陆拦截为危险网站
+DOMAIN-SUFFIX,cooltv.top
+DOMAIN-SUFFIX,live.cooltv.top
+IP-CIDR,47.242.160.133/32,no-resolve
+
+# 私人常用
+DOMAIN,nettv.live
+DOMAIN-SUFFIX,nettv.live
+DOMAIN-SUFFIX,netlify.app
+
+# 容器部署
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,workers.dev

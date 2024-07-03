@@ -1,0 +1,10 @@
+# 内容：Amazon 规则补充
+# 数量：8条
+DOMAIN-SUFFIX,a2z.com
+DOMAIN-SUFFIX,amazon.dev
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,associates-amazon.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,prime-video.amazon.dev
+URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|Prime-Video|gp\/video)\/
