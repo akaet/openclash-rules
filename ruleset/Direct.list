@@ -3,15 +3,15 @@
 DOMAIN-KEYWORD,hzbank
 
 # 来源：https://pixman.io/topics/17
-# 以下域名或 IP 请直连或使用国内服务器访问
-IP-CIDR,183.206.0.0/15,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,27.36.0.0/14,no-resolve
-IP-CIDR,183.238.66.0/24,no-resolve
-DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,gcable.cn
+IP-CIDR,183.206.0.0/15,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,27.36.0.0/14,no-resolve
+IP-CIDR,183.238.66.0/24,no-resolve

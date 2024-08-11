@@ -1,21 +1,9 @@
-# 内容：HK
-# 来源：https://livednow.com/clash.yaml
-DOMAIN-SUFFIX,livednow.com
-DOMAIN-SUFFIX,dtmb-s1.cc
-DOMAIN-SUFFIX,dtmb-s2.cc
-DOMAIN-SUFFIX,stream-link.org
-DOMAIN-SUFFIX,stream-link.online
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,hoy.tv
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,tvb.com
-
 # 来源：https://pixman.io/topics/17
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,livednow.com
-DOMAIN-SUFFIX,orz-7.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,thetvapp.to
 
