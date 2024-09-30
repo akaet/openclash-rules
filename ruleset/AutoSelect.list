@@ -1,6 +1,7 @@
 # 来源：https://pixman.io/topics/17
 DOMAIN-SUFFIX,livednow.com
-DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,livednow.org
+DOMAIN-SUFFIX,wx.sb
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,ofiii.com
@@ -12,9 +13,11 @@ DOMAIN-SUFFIX,cooltv.top
 DOMAIN-SUFFIX,live.cooltv.top
 IP-CIDR,47.242.160.133/32,no-resolve
 
-# 私人常用
+# nettv
 DOMAIN,nettv.live
 DOMAIN-SUFFIX,nettv.live
+
+# 网站部署
 DOMAIN-SUFFIX,netlify.app
 
 # 容器部署
