@@ -15,3 +15,7 @@ IP-CIDR,183.206.0.0/15,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,27.36.0.0/14,no-resolve
 IP-CIDR,183.238.66.0/24,no-resolve
+
+# 来源：https://t.me/feiyangdigital/842988
+# 肥羊搭建的直播
+DOMAIN-SUFFIX,ottdns.com
