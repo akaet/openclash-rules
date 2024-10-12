@@ -22,4 +22,5 @@ DOMAIN-SUFFIX,netlify.app
 
 # 容器部署
 DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,koyeb.app
 DOMAIN-SUFFIX,workers.dev
