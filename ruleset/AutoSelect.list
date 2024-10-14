@@ -1,12 +1,18 @@
 # 来源：https://pixman.io/topics/17
-DOMAIN-SUFFIX,livednow.com
-DOMAIN-SUFFIX,livednow.org
-DOMAIN-SUFFIX,wx.sb
+# 4GTV & Hamivideo
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,thetvapp.to
+# YouTube
+#DOMAIN-SUFFIX,googlevideo.com
+#DOMAIN-SUFFIX,youtube.com
+# MytvSuper
+#DOMAIN-SUFFIX,mytvsuper.com
+#DOMAIN-SUFFIX,tvb.com
+# 以下规则可自行测试能否直连，不能直连的话设置为海外代理
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+DOMAIN-SUFFIX,wx.sb
 
 # 被大陆拦截为危险网站
 DOMAIN-SUFFIX,cooltv.top
