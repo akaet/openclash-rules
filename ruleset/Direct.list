@@ -17,3 +17,7 @@ DOMAIN-SUFFIX,chinamobile.com
 # 来源：https://t.me/feiyangdigital/842988
 # 肥羊搭建的直播
 DOMAIN-SUFFIX,ottdns.com
+
+# iqilu IPTV CDN
+DOMAIN-SUFFIX,wslivehls.com
+DOMAIN-SUFFIX,ourdvsssvip.com
