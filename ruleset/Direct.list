@@ -7,12 +7,12 @@ DOMAIN-KEYWORD,hzbank
 DOMAIN-SUFFIX,mobaibox.com
 IP-CIDR,183.207.0.0/16,DIRECT,no-resolve
 # YSP
-DOMAIN-SUFFIX,cctv.cn
-DOMAIN-SUFFIX,yangshipin.cn
+#DOMAIN-SUFFIX,cctv.cn
+#DOMAIN-SUFFIX,yangshipin.cn
 # ITV
 DOMAIN-SUFFIX,dnsany.com
-DOMAIN-SUFFIX,cmvideo.cn
-DOMAIN-SUFFIX,chinamobile.com
+#DOMAIN-SUFFIX,cmvideo.cn
+#DOMAIN-SUFFIX,chinamobile.com
 
 # 来源：https://t.me/feiyangdigital/842988
 # 肥羊搭建的直播
