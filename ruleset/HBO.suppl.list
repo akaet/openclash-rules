@@ -1,5 +1,5 @@
 # 内容：HBO 规则补充
-# 数量：1条
+# 数量：2条
 # 用户：HBO
 DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,prd.api.discomax.com
