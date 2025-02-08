@@ -30,3 +30,12 @@ DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,koyeb.app
 DOMAIN-SUFFIX,workers.dev
+
+# 来源：https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/rule/Custom_Proxy.list
+# GooglePlay 相关
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# Google 相关
+DOMAIN-SUFFIX,mtalk.google.com
