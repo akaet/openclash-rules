@@ -11,3 +11,8 @@ DOMAIN-SUFFIX,ntdfreevcpc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,ntdfreevcmobile.akamaized.net
 # https://t.me/livednowgroup/393313
 DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net
+
+# 来源：https://pixman.io/topics/17
+# 以下规则需要台湾线路
+# Hamivideo
+DOMAIN-SUFFIX,cdn.hinet.net

@@ -1,18 +1,6 @@
-# 直连列表 补充规则
-# 杭州银行直连，避免走代理
-DOMAIN-KEYWORD,hzbank
-
 # 来源：https://pixman.io/topics/17
-# TPTV
-DOMAIN-SUFFIX,mobaibox.com
-IP-CIDR,183.207.0.0/16,DIRECT,no-resolve
-# YSP
-#DOMAIN-SUFFIX,cctv.cn
-#DOMAIN-SUFFIX,yangshipin.cn
 # ITV
 DOMAIN-SUFFIX,dnsany.com
-#DOMAIN-SUFFIX,cmvideo.cn
-#DOMAIN-SUFFIX,chinamobile.com
 
 # 来源：https://t.me/feiyangdigital/842988
 # 肥羊搭建的直播

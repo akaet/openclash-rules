@@ -1,27 +1,6 @@
-# 来源：https://pixman.io/topics/17
-# 4GTV & Hamivideo
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,ofiii.com
-# YouTube
-#DOMAIN-SUFFIX,googlevideo.com
-#DOMAIN-SUFFIX,youtube.com
-# MytvSuper
-#DOMAIN-SUFFIX,mytvsuper.com
-#DOMAIN-SUFFIX,tvb.com
-# 以下规则可自行测试能否直连，不能直连的话设置为海外代理
-DOMAIN-SUFFIX,livednow.com
-DOMAIN-SUFFIX,livednow.org
-DOMAIN-SUFFIX,wx.sb
-
-# 被大陆拦截为危险网站
-DOMAIN-SUFFIX,cooltv.top
-DOMAIN-SUFFIX,live.cooltv.top
-IP-CIDR,47.242.160.133/32,no-resolve
-
 # nettv
-DOMAIN,nettv.live
 DOMAIN-SUFFIX,nettv.live
+DOMAIN-SUFFIX,nettvpro.xyz/
 
 # 网站部署
 DOMAIN-SUFFIX,netlify.app
@@ -30,12 +9,3 @@ DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,koyeb.app
 DOMAIN-SUFFIX,workers.dev
-
-# 来源：https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/rule/Custom_Proxy.list
-# GooglePlay 相关
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# Google 相关
-DOMAIN-SUFFIX,mtalk.google.com
