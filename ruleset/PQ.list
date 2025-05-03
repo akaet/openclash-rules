@@ -1,3 +1,6 @@
 # FTV
 DOMAIN-SUFFIX,cloudycdn.services
 DOMAIN-SUFFIX,lb.streaming.sk
+
+# PBS Kids
+DOMAIN-SUFFIX,livestream.pbskids.org
