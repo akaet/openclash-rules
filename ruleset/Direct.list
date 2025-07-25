@@ -14,12 +14,18 @@ DOMAIN-SUFFIX,ourdvsssvip.com
 # LibreTV https://github.com/LibreSpark/LibreTV/blob/main/js/config.js
 # 电影天堂资源
 DOMAIN-SUFFIX,dyttzyapi.com
+DOMAIN-SUFFIX,dytt-img
+DOMAIN-SUFFIX,tyyswimg.com
 # 如意资源
 DOMAIN-SUFFIX,rycjapi.com
+DOMAIN-SUFFIX,yczy5.com
+DOMAIN-SUFFIX,ry-pic.com
 # 暴风资源
 DOMAIN-SUFFIX,bfzyapi.com
+DOMAIN-SUFFIX,bfzypic.com
 # 天涯资源
 DOMAIN-SUFFIX,tyyszy.com
+DOMAIN-SUFFIX,tyyszywvod5.com
 # 小猫咪资源
 DOMAIN-SUFFIX,xmm.hk
 # 非凡影视
