@@ -10,3 +10,58 @@ DOMAIN-SUFFIX,bptv.freetv.top
 # iqilu IPTV CDN
 DOMAIN-SUFFIX,wslivehls.com
 DOMAIN-SUFFIX,ourdvsssvip.com
+
+# LibreTV https://github.com/LibreSpark/LibreTV/blob/main/js/config.js
+# 电影天堂资源
+DOMAIN-SUFFIX,dyttzyapi.com
+# 如意资源
+DOMAIN-SUFFIX,rycjapi.com
+# 暴风资源
+DOMAIN-SUFFIX,bfzyapi.com
+# 天涯资源
+DOMAIN-SUFFIX,tyyszy.com
+# 小猫咪资源
+DOMAIN-SUFFIX,xmm.hk
+# 非凡影视
+DOMAIN-SUFFIX,ffzy5.tv
+# 黑木耳
+DOMAIN-SUFFIX,heimuer.xyz
+DOMAIN-SUFFIX,heimuer.tv
+# 360资源
+DOMAIN-SUFFIX,360zy.com
+# iqiyi资源
+DOMAIN-SUFFIX,iqiyizyapi.com
+# 卧龙资源
+DOMAIN-SUFFIX,wolongzyw.com
+# 华为吧资源
+DOMAIN-SUFFIX,cjhwba.com
+# 极速资源
+DOMAIN-SUFFIX,jszyapi.com
+# 豆瓣资源
+DOMAIN-SUFFIX,dbzy.tv
+# 魔爪资源
+DOMAIN-SUFFIX,mozhuazy.com
+# 魔都资源
+DOMAIN-SUFFIX,mdzyapi.com
+# 最大资源
+DOMAIN-SUFFIX,zuidapi.com
+# 樱花资源
+DOMAIN-SUFFIX,apiyhzy.com
+# 百度云资源
+DOMAIN-SUFFIX,apibdzy.com
+# 无尽资源
+DOMAIN-SUFFIX,wujinapi.me
+# 旺旺短剧
+DOMAIN-SUFFIX,wwzy.tv
+# iKun资源
+DOMAIN-SUFFIX,ikunzyapi.com
+# 量子资源站
+DOMAIN-SUFFIX,lziapi.com
+# 空内容测试源
+DOMAIN-SUFFIX,example.com
+# 速播资源
+DOMAIN-SUFFIX,subocaiji.com
+# 蜂巢资源
+DOMAIN-SUFFIX,fczy888.me
+# U酷资源
+DOMAIN-SUFFIX,ukuapi88.com
