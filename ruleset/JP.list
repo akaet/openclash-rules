@@ -1,0 +1,5 @@
+# smart iptv
+# 港台日新可用
+IP-CIDR,50.7.92.106/32,no-resolve
+IP-CIDR,67.159.6.34/32,no-resolve
+IP-CIDR,198.16.100.186/32,no-resolve
