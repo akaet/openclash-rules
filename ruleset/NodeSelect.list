@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,koyeb.app
 DOMAIN-SUFFIX,workers.dev
+
+# 肥羊搭建的直播
+# https://t.me/feiyangdigital/1422925
+DOMAIN-SUFFIX,bptv.freetv.top
