@@ -6,3 +6,11 @@ DOMAIN-SUFFIX,docker.livednow.dpdns.org
 # PBS Kids
 DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pbskids.org
+
+# FTV
+DOMAIN-SUFFIX,cloudycdn.services
+DOMAIN-SUFFIX,lb.streaming.sk
+DOMAIN-KEYWORD,fashiontv
+
+# WFC TV
+DOMAIN-SUFFIX,wfc.tv
