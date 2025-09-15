@@ -13,3 +13,14 @@ DOMAIN-SUFFIX,workers.dev
 # 肥羊搭建的直播
 # https://t.me/feiyangdigital/1422925
 DOMAIN-SUFFIX,bptv.freetv.top
+
+# smart iptv
+# 港台日新可用
+IP-CIDR,50.7.92.106/32,no-resolve
+IP-CIDR,67.159.6.34/32,no-resolve
+IP-CIDR,198.16.100.186/32,no-resolve
+IP-CIDR,66.90.99.0/24,no-resolve
+
+# https://tv.iill.top/m3u/Gather
+# https://tv-1.iill.top/m3u/Gather
+DOMAIN-SUFFIX,iill.top
