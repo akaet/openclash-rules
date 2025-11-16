@@ -1,0 +1,4 @@
+# 华东电信直连效果不好，拦截为走代理
+# Akamai CDN
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
