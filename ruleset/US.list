@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pbskids.org
 
 # FTV
+DOMAIN-SUFFIX,ftv1.b-cdn.net
+DOMAIN-SUFFIX,vz-995722ed-c12.b-cdn.net
 DOMAIN-SUFFIX,cloudycdn.services
 DOMAIN-SUFFIX,lb.streaming.sk
 DOMAIN-KEYWORD,fashiontv
