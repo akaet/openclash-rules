@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,prime-video.amazon.dev
 DOMAIN-SUFFIX,pv-cdn.net
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|Prime-Video|gp\/video)\/
 DOMAIN-KEYWORD,avodhlss
+DOMAIN-KEYWORD,amazon
