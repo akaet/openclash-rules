@@ -1,6 +1,6 @@
 # 来源：https://t.me/Y_IPTV/102
-DOMAIN-SUFFIX,smart.pendy.dpdns.org
-DOMAIN-SUFFIX,sport.pendy.dpdns.org
+DOMAIN-SUFFIX,ru8.dpdns.org
+DOMAIN-SUFFIX,pendy.dpdns.org
 DOMAIN-SUFFIX,docker.livednow.dpdns.org
 
 # PBS Kids
@@ -20,3 +20,10 @@ DOMAIN-SUFFIX,pubgfc.teleosmedia.com
 
 # alpine
 DOMAIN-SUFFIX,dl-cdn.alpinelinux.org
+
+# https://t.me/GPT_858/191161
+DOMAIN-SUFFIX,smt.goiptv.us.ci
+
+# https://t.me/GPT_858/207072
+DOMAIN-SUFFIX,catvod.com
+DOMAIN-SUFFIX,go-iptv.ggff.net

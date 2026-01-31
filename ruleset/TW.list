@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,ntdfreevcpc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,ntdfreevcmobile.akamaized.net
 # https://t.me/livednowgroup/393313
 DOMAIN-SUFFIX,ntd-tgc.cdn.hinet.net
+# https://t.me/pixman_io/534612
+DOMAIN-SUFFIX,ntdssaimobile-tgc.cdn.hinet.net
+DOMAIN-SUFFIX,litv.tv
 
 # 来源：https://t.me/Y_IPTV/102
 # 来源：https://pixman.io/topics/301
@@ -29,3 +32,11 @@ DOMAIN-SUFFIX,4gtvfreemobile-cds.cdn.hinet.net
 # 以下规则需要台湾线路
 # Hamivideo
 DOMAIN-SUFFIX,cdn.hinet.net
+
+# https://t.me/GPT_858/207072
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ofiii.com
+
+# Smart
+IP-CIDR,38.135.24.88/32,no-resolve
