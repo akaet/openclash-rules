@@ -10,3 +10,6 @@ DOMAIN-KEYWORD,ottiptv
 # iqilu IPTV CDN
 DOMAIN-SUFFIX,wslivehls.com
 DOMAIN-SUFFIX,ourdvsssvip.com
+
+# Kitty
+DOMAIN-SUFFIX,feed1.chitanda-eru.com
