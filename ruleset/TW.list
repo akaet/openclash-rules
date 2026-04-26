@@ -40,3 +40,6 @@ DOMAIN-SUFFIX,ofiii.com
 
 # Smart
 IP-CIDR,38.135.24.88/32,no-resolve
+
+# tms_rust
+DOMAIN-SUFFIX,tpshen.com
