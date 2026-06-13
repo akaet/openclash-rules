@@ -9,7 +9,3 @@ DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,koyeb.app
 DOMAIN-SUFFIX,workers.dev
-
-# https://tv.iill.top/m3u/Gather
-# https://tv-1.iill.top/m3u/Gather
-DOMAIN-SUFFIX,iill.top
