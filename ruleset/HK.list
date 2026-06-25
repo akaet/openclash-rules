@@ -3,3 +3,16 @@ DOMAIN-KEYWORD,rthktv
 DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,hkstv.tv
 DOMAIN-SUFFIX,rthk.hk
+
+# nettv
+DOMAIN-SUFFIX,nettv.live
+DOMAIN-SUFFIX,nettvpro.xyz
+
+# 网站部署
+DOMAIN-SUFFIX,netlify.app
+
+# 容器部署
+DOMAIN-SUFFIX,fly.io
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,koyeb.app
+DOMAIN-SUFFIX,workers.dev
