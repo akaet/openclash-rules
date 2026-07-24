@@ -1,3 +1,5 @@
 # 内容：阻止访问
-# 数量：1条
+# 数量：3条
 DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,cyberserval.com
+DOMAIN-SUFFIX,ddr-console.netease.com
