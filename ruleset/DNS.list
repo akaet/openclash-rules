@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,family.cloudflare-dns.com
 DOMAIN-SUFFIX,security.cloudflare-dns.com
 DOMAIN-SUFFIX,frd4wvnobp.cloudflare-gateway.com
-DOMAIN-SUFFIX,dns.cloudflare.com
 DOMAIN-SUFFIX,dns.comss.one
 DOMAIN-SUFFIX,router.comss.one
 DOMAIN-SUFFIX,freedns.controld.com
@@ -43,12 +42,6 @@ DOMAIN-SUFFIX,unfiltered.joindns4.eu
 DOMAIN-SUFFIX,dns.jupitrdns.com
 DOMAIN-SUFFIX,doh.libredns.gr
 DOMAIN-SUFFIX,dns.marbledfennec.net
-DOMAIN-SUFFIX,adblock.dns.mullvad.net
-DOMAIN-SUFFIX,all.dns.mullvad.net
-DOMAIN-SUFFIX,base.dns.mullvad.net
-DOMAIN-SUFFIX,dns.mullvad.net
-DOMAIN-SUFFIX,extended.dns.mullvad.net
-DOMAIN-SUFFIX,family.dns.mullvad.net
 DOMAIN-SUFFIX,anycast.dns.nextdns.io
 DOMAIN-SUFFIX,dns.nextdns.io
 DOMAIN-SUFFIX,odvr.nic.cz
