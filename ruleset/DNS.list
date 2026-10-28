@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,dns-doh.dnsforfamily.com
 DOMAIN-SUFFIX,dnsforge.de
 DOMAIN-SUFFIX,dns.dnsguard.pub
+DOMAIN-SUFFIX,family.dns.dremaxx.com
+DOMAIN-SUFFIX,open.dns.dremaxx.com
 DOMAIN-SUFFIX,doh.ffmuc.net
 DOMAIN-SUFFIX,juuri.hagezi.org
 DOMAIN-SUFFIX,root.hagezi.org

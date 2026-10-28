@@ -1,6 +1,5 @@
 # 内容：Amazon 规则补充
 DOMAIN-SUFFIX,live-video.net
-DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-KEYWORD,avodhlss
 DOMAIN-KEYWORD,amazon
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|Prime-Video|gp\/video)\/
